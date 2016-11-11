@@ -15,20 +15,18 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic1.png)
 
   2.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
+
  ![](https://github.com/Hathaichanok241/LAB-05/blob/master/5.1.JPG?raw=true)
 
-<hr>
-<hr>
+
  2.3). แก้โปรแกรมตามรูปด้านล่างนี้
  
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
-
-
-
+ 
+ 
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/5.2.JPG?raw=true)
 
 
 ###คำถาม 5.1 เครื่องหมาย { }  ในคำสั่ง Console.WriteLine() มีลักษณะการใช้งานอย่างไร
@@ -49,11 +47,10 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic3.png)
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+
+![](https://github.com/Hathaichanok241/LAB-05/blob/master/5.3.JPG?raw=true)
+
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
 
@@ -62,11 +59,10 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ 
+ 
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/5.4.JPG?raw=true)
+
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
 <hr>
@@ -82,11 +78,10 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic5.png)
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ 
+ 
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/5.5.JPG?raw=true)
+
 
 5). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของอาร์กิวเมนต์
   5.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -95,6 +90,10 @@
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
 
+![](https://github.com/Hathaichanok241/LAB-05/blob/master/5.6.JPG?raw=true)
+
+
+
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
 
@@ -102,6 +101,10 @@
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
 
+
+![](https://github.com/Hathaichanok241/LAB-05/blob/master/5.7.JPG?raw=true)
+ 
+ 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
 ```csharp
