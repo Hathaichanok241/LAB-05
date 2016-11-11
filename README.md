@@ -108,24 +108,66 @@
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
 1.  string name = "Hello";
+
     Console.WriteLine(String.Format("{0} there. I said {0}! {0}???", name));
     ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.1.JPG?raw=true)
     
 2.    Console.WriteLine("{2:d} {0:d} {1:d}", 1, 2, 3);
+  ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.2.JPG?raw=true)
+    
 3.    Console.WriteLine("Hello " + "World");
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.3.JPG?raw=true)
+    
 4.    Console.WriteLine("Here comes a slash \\");
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.4.JPG?raw=true)
+    
 5.    Console.WriteLine("|{0, 10}|", 999);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.5.JPG?raw=true)
+    
 6.    Console.WriteLine("|{0,-10}|", 000);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.6.JPG?raw=true)
+    
 7.    Console.WriteLine("The value: {0}.", 500);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.7.JPG?raw=true)
+    
 8.    Console.WriteLine("The value: {0:C}.", 500);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.8.JPG?raw=true)
+    
 9.    Console.WriteLine("{0,-10:F4}", 12.3456789);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.9.JPG?raw=true)
+    
 10.   Console.WriteLine("{0,-10:C}", 12.3456789);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.10.JPG?raw=true)
+    
 11.   Console.WriteLine("{0,-10:E3}", 12.3456789);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.11.JPG?raw=true)
+    
 12.   Console.WriteLine("{0,-10:x}", 65535);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.12.JPG?raw=true)
+    
 13.   Console.WriteLine("{0,-10:X}", 65535);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.13.JPG?raw=true)
+    
 14.   int i; 
       Console.WriteLine("Value\tSquared\tCubed"); 
       for(i = 1; i < 10; i++) 
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
+          
+           ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.14.JPG?raw=true)
+    
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
+
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.15.JPG?raw=true)
+    
 
