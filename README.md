@@ -30,11 +30,9 @@
 
 
 ###คำถาม 5.1 เครื่องหมาย { }  ในคำสั่ง Console.WriteLine() มีลักษณะการใช้งานอย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ 
+ ###ตอบ 
+ 
 ###คำถาม 5.2  ถ้ามีการใช้ตัวเลขใน { } ที่กระโดด เช่น {0} {2} {3} จะใช้งานได้หรือไม่ อย่างไร จงอธิบาย
 <hr>
 <hr>
@@ -168,10 +166,10 @@
       for(i = 1; i < 10; i++) 
       
       
-          Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
+       Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
           
           
-           ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.14.JPG?raw=true)
+   ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.14.JPG?raw=true)
     
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 
