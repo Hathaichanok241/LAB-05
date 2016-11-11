@@ -17,7 +17,8 @@
   2.2). รันโปรแกรม และบันทึกผลที่ได้
 <hr>
 <hr>
-<hr>
+ ![](https://github.com/Hathaichanok241/LAB-05/blob/master/5.1.JPG?raw=true)
+
 <hr>
 <hr>
  2.3). แก้โปรแกรมตามรูปด้านล่างนี้
