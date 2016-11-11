@@ -107,9 +107,10 @@
  
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
-```csharp
+csharp
 1.  string name = "Hello";
     Console.WriteLine(String.Format("{0} there. I said {0}! {0}???", name));
+    ![](https://github.com/Hathaichanok241/LAB-05/blob/master/img/5.8.1.JPG?raw=true)
 2.    Console.WriteLine("{2:d} {0:d} {1:d}", 1, 2, 3);
 3.    Console.WriteLine("Hello " + "World");
 4.    Console.WriteLine("Here comes a slash \\");
@@ -127,4 +128,4 @@
       for(i = 1; i < 10; i++) 
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
-```
+
